@@ -1,4 +1,4 @@
-# Laravel-sample-PROJECT
+# Laravel-sample-PROJECT (Appointment Booking System)
 
 <p>Model</p>
 
